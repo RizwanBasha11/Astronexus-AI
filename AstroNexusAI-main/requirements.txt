@@ -1,0 +1,47 @@
+pymupdf
+python-docx
+unstructured
+langchain
+langchain-community
+langchain-core
+langchain_text_splitters
+langchain_huggingface
+langchain_ollama
+langgraph
+pypdf
+markdown
+openai-whisper
+pydantic
+qdrant-client
+neo4j
+spacy
+rouge_score
+ragas
+datasets==3.6.0
+numpy
+rank-bm25
+transformers>=4.46
+# torch and torchvision — install CUDA build separately:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+torch
+torchvision
+Pillow
+rasterio
+# SAM2 — correct package (provides 'import sam2')
+# DO NOT use segment-anything-2 (wrong/legacy stub)
+sam2
+einops
+timm
+qwen-vl-utils
+accelerate
+google-genai
+google-generativeai
+edge-tts
+pyttsx3
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+sounddevice
+soundfile
+Pylance
